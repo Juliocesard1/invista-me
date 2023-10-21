@@ -71,9 +71,10 @@ TEMPLATES = [
                 'django.contrib.messages.context_processors.messages',
             ],      
         },
-    },
-]
-
+    }
+                
+]   
+    
 WSGI_APPLICATION = 'projeto_invista_me.wsgi.application'
 
 
